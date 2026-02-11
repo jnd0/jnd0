@@ -19,6 +19,25 @@ Backend and infrastructure engineer building AI automations, developer tooling, 
 - [agent-skills](https://github.com/jnd0/agent-skills) - Reusable coding-agent skills.
 - [blog.jnd0.dev](https://github.com/jnd0/blog.jnd0.dev) - Blog engine and content.
 
+## Latest blog posts
+
+- [The Future is Markdown: The Lingua Franca of the AI Era](https://blog.jnd0.dev/posts/future-markdown)
+- [HN-Brief - Automating My Hacker News Habit](https://blog.jnd0.dev/posts/hn-brief)
+- [Eat With Me - Engineering a Privacy-First P2P Video Architecture](https://blog.jnd0.dev/posts/eat-with-me)
+- [The Right Problem - The Key to Exceptional Success](https://blog.jnd0.dev/posts/the-right-problem)
+- [Create > Consume](https://blog.jnd0.dev/posts/helloWorld)
+
+## Connect
+
+- [Email](mailto:hey@jnd0.dev)
+- [Schedule a call](https://cal.eu/jaume/30min)
+- [Website](https://jnd0.dev)
+- [Blog](https://blog.jnd0.dev)
+- [GitHub](https://github.com/jnd0)
+- [LinkedIn](https://www.linkedin.com/in/jnoguera0/)
+- [X / Twitter](https://x.com/jnd0)
+- [Instagram](https://instagram.com/jnd0)
+
 ## Contributions snapshot
 
 - 1,783 total contributions.
