@@ -1,4 +1,4 @@
-# Jaume (`jnd0`)
+# Hi, I'm Jaume 👋
 
 Backend and infrastructure engineer building AI automations, developer tooling, and production web systems.
 
