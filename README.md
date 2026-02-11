@@ -1,39 +1,45 @@
-# Hi, I'm Jaume 👋
+# Jaume (`jnd0`)
 
-Backend and infrastructure-focused engineer building practical tools, automations, and web products.
+Backend and infrastructure engineer building AI automations, developer tooling, and production web systems.
 
-📍 London & Barcelona
+`London & Barcelona`
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
 
-## Current focus
+## Featured work
 
-- AI-assisted backend systems and automation pipelines
-- Cloudflare Workers, edge workflows, and API integrations
-- Developer tooling (CLI + agent workflows)
+- [hn-brief](https://github.com/jnd0/hn-brief) - AI-powered daily Hacker News summaries.
+- [slack-beam](https://github.com/jnd0/slack-beam) - CLI to automate Slack delivery.
+- [startup-perks](https://github.com/jnd0/startup-perks) - Open startup perks directory.
+- [agent-skills](https://github.com/jnd0/agent-skills) - Reusable coding-agent skills.
+- [blog.jnd0.dev](https://github.com/jnd0/blog.jnd0.dev) - Blog engine and content.
 
-## Public repositories
+## Contributions snapshot
 
-### Main projects
+- 1,783 total contributions.
+- 1,589 commits, 28 pull requests.
+- Highest volume: [hn-brief](https://github.com/jnd0/hn-brief), [slack-beam](https://github.com/jnd0/slack-beam), [startup-perks](https://github.com/jnd0/startup-perks).
 
-- [hn-brief](https://github.com/jnd0/hn-brief) - AI-powered daily summaries of Hacker News stories and discussions
-- [startup-perks](https://github.com/jnd0/startup-perks) - Open startup perks directory
-- [slack-beam](https://github.com/jnd0/slack-beam) - CLI tool to automate Slack messages
-- [agent-skills](https://github.com/jnd0/agent-skills) - Reusable AI coding-agent skills
-- [blog.jnd0.dev](https://github.com/jnd0/blog.jnd0.dev) - Personal blog codebase
-- [country-counter](https://github.com/jnd0/country-counter) - Track days spent by country each year
-- [jnd0.github.io](https://github.com/jnd0/jnd0.github.io) - GitHub Pages site
+<details>
+<summary>Full public repository index</summary>
 
-### Public experiments and older work
+### Products and projects
 
-- [tailwindcss-sepia-mode](https://github.com/jnd0/tailwindcss-sepia-mode) - Tailwind CSS sepia mode plugin
-- [Libgdsxflapbrdb](https://github.com/jnd0/Libgdsxflapbrdb) - libGDX game experiment
-- [Sintesis](https://github.com/jnd0/Sintesis) - Final DAW project repository
+- [hn-brief](https://github.com/jnd0/hn-brief)
+- [startup-perks](https://github.com/jnd0/startup-perks)
+- [slack-beam](https://github.com/jnd0/slack-beam)
+- [agent-skills](https://github.com/jnd0/agent-skills)
+- [blog.jnd0.dev](https://github.com/jnd0/blog.jnd0.dev)
+- [country-counter](https://github.com/jnd0/country-counter)
+- [jnd0.github.io](https://github.com/jnd0/jnd0.github.io)
+- [tailwindcss-sepia-mode](https://github.com/jnd0/tailwindcss-sepia-mode)
+- [Libgdsxflapbrdb](https://github.com/jnd0/Libgdsxflapbrdb)
+- [Sintesis](https://github.com/jnd0/Sintesis)
 
 ### Public forks
 
@@ -43,9 +49,12 @@ Backend and infrastructure-focused engineer building practical tools, automation
 - [models](https://github.com/jnd0/models)
 - [cs228-material](https://github.com/jnd0/cs228-material)
 
-## Private repositories (URL references)
+</details>
 
-> These repositories are private and only visible if you have access.
+<details>
+<summary>Private repository URL index</summary>
+
+These URLs are listed for reference and are only accessible with permissions.
 
 - [jnd0.dev](https://github.com/jnd0/jnd0.dev)
 - [wellknown.digital](https://github.com/jnd0/wellknown.digital)
@@ -67,20 +76,4 @@ Backend and infrastructure-focused engineer building practical tools, automation
 - [cs50](https://github.com/jnd0/cs50)
 - [hucid_airline](https://github.com/jnd0/hucid_airline)
 
-## Contributions snapshot
-
-- 1,783 total contributions
-- 1,589 commits
-- 28 pull requests
-
-Most active repositories by commit volume:
-
-- [hn-brief](https://github.com/jnd0/hn-brief) (1,465)
-- [slack-beam](https://github.com/jnd0/slack-beam) (103)
-- [startup-perks](https://github.com/jnd0/startup-perks) (15)
-- [blog.jnd0.dev](https://github.com/jnd0/blog.jnd0.dev) (4)
-- [agent-skills](https://github.com/jnd0/agent-skills) (2)
-
----
-
-If you're working on backend tooling, automation, or infrastructure-heavy product builds, feel free to reach out.
+</details>
