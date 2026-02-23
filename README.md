@@ -13,6 +13,7 @@ Backend and infrastructure engineer building AI automations, developer tooling, 
 
 ## Featured work
 
+- [llm-registry](https://github.com/jnd0/llm-registry) - Source-of-truth LLM benchmark registry with verified scores and model comparisons.
 - [hn-brief](https://github.com/jnd0/hn-brief) - AI-powered daily Hacker News summaries.
 - [slack-beam](https://github.com/jnd0/slack-beam) - CLI to automate Slack delivery.
 - [startup-perks](https://github.com/jnd0/startup-perks) - Open startup perks directory.
@@ -49,6 +50,7 @@ Backend and infrastructure engineer building AI automations, developer tooling, 
 
 ### Products and projects
 
+- [llm-registry](https://github.com/jnd0/llm-registry)
 - [hn-brief](https://github.com/jnd0/hn-brief)
 - [startup-perks](https://github.com/jnd0/startup-perks)
 - [slack-beam](https://github.com/jnd0/slack-beam)
