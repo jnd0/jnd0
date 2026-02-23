@@ -28,17 +28,6 @@ Backend and infrastructure engineer building AI automations, developer tooling, 
 - [The Right Problem - The Key to Exceptional Success](https://blog.jnd0.dev/posts/the-right-problem)
 - [Create > Consume](https://blog.jnd0.dev/posts/helloWorld)
 
-## Connect
-
-- [Email](mailto:hey@jnd0.dev)
-- [Schedule a call](https://cal.eu/jaume/30min)
-- [Website](https://jnd0.dev)
-- [Blog](https://blog.jnd0.dev)
-- [GitHub](https://github.com/jnd0)
-- [LinkedIn](https://www.linkedin.com/in/jnoguera0/)
-- [X / Twitter](https://x.com/jnd0)
-- [Instagram](https://instagram.com/jnd0)
-
 ## Contributions snapshot
 
 - 1,783 total contributions.
